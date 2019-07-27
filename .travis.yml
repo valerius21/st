@@ -1,0 +1,5 @@
+dist: bionic
+#addons:
+#apt:
+#packages:
+install: make
